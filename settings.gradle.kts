@@ -13,7 +13,7 @@ pluginManagement {
         id("com.android.library").version(extra["agp.version"] as String)
         id("org.jetbrains.compose").version(extra["compose.version"] as String)
     }
-}
+} 
 
 rootProject.name = "ComposeServerDrivenUI"
 
