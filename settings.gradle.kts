@@ -16,5 +16,4 @@ pluginManagement {
 } 
 
 rootProject.name = "ComposeServerDrivenUI"
-
 include(":android", ":desktop", ":common")
